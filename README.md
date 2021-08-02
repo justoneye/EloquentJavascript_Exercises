@@ -7,7 +7,7 @@ This repository contains the solved exercises and finished projects of the book 
 
 <ol>
   ### Part 1: Language
-  <li>Values, Types, and Operators/li>
+  <li>Values, Types, and Operators</li>
   <li>Program Structure</li>
   <li>Functions</li>
   <li>Values, Types, and Operators</li>
