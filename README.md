@@ -6,12 +6,13 @@ This repository contains the solved exercises and finished projects of the book 
 
 <ol>
   Introduction
+  <br/>
   ### Part 1: Language
   
   <li>Values, Types, and Operators/li>
   <li>Program Structure</li>
-  <li>Functions/li>
-  <li>Values, Types, and Operators/li>
+  <li>Functions</li>
+  <li>Values, Types, and Operators</li>
   <li>Program Structure</li>
   <li>Functions</li>
   <li>Data Structures: Objects and Arrays</li>
