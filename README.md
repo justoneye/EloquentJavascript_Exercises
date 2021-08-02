@@ -5,18 +5,27 @@ This repository contains the solved exercises and finished projects of the book 
 ## Contents
 Introduction
 ### Part 1: Language
-Values, Types, and Operators
-Program Structure
-Functions
-Data Structures: Objects and Arrays
-Higher-order Functions
-The Secret Life of Objects
-Project: A Robot
-Bugs and Errors
-Regular Expressions
-Modules
-Asynchronous Programming
-Project: A Programming Language
+
+<ol>
+  <li>Values, Types, and Operators/li>
+  <li>Program Structure</li>
+  <li>Functions/li>
+  <li>Values, Types, and Operators/li>
+  <li>Program Structure</li>
+  <li>Functions</li>
+  <li>Data Structures: Objects and Arrays</li>
+  <li>Higher-order Functions</li>
+  <li>The Secret Life of Objects</li>
+  <li>Project: A Robot</li>
+  <li>Bugs and Errors</li>
+  <li>Regular Expressions</li>
+  <li>Modules</li>
+  <li>Asynchronous Programming</li>
+  <li>Project: A Programming Language</li>
+  
+  ### Part 2: Browser
+  
+</ol>
 
 ### Part 2: Browser
 JavaScript and the Browser
