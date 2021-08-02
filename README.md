@@ -4,9 +4,9 @@ This repository contains the solved exercises and finished projects of the book 
 
 ## Contents
   Introduction
+  ### Part 1: Language
 
 <ol>
-  ### Part 1: Language
   <li>Values, Types, and Operators</li>
   <li>Program Structure</li>
   <li>Functions</li>
