@@ -3,12 +3,10 @@
 This repository contains the solved exercises and finished projects of the book to Eloquent JavaScript 3rd edition (2018) written by Marijn Haverbeke.
 
 ## Contents
+  Introduction
 
 <ol>
-  Introduction
-  <br/>
   ### Part 1: Language
-  
   <li>Values, Types, and Operators/li>
   <li>Program Structure</li>
   <li>Functions</li>
