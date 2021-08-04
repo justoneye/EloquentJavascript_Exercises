@@ -1,6 +1,6 @@
 # Eloquent Javascript Exercises
 
-This repository contains the solved exercises and finished projects of the book to Eloquent JavaScript 3rd edition (2018) written by Marijn Haverbeke.
+This repository contains the solved exercises and finished projects of the book to <a href="https://eloquentjavascript.net/">Eloquent JavaScript</a> 3rd edition (2018) written by <a href="https://marijnhaverbeke.nl/">Marijn Haverbeke</a>. 
 
 ## Contents
   Introduction
